@@ -1,7 +1,6 @@
 - Hi, I’m Blossom
 - I’m interested in programming, editing and technology as a whole
 - Currently learning: C#, SQL, JS and more
-- I’m looking to collaborate on small coding projects to improve my skills
 - How to reach me: blossomalloziem111@gmail.com
 
 <!---
